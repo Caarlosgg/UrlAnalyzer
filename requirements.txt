@@ -1,0 +1,22 @@
+# --- Ciencia de Datos y Machine Learning ---
+pandas
+numpy
+scikit-learn
+xgboost
+joblib
+tldextract
+scipy
+
+# --- Visualización y Análisis ---
+matplotlib
+seaborn
+plotly
+
+# --- API (Backend) ---
+fastapi
+uvicorn
+pydantic
+
+# --- Web App (Frontend) ---
+streamlit
+requests

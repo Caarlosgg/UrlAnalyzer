@@ -1,0 +1,14 @@
+# Entornos virtuales
+.venv/
+venv/
+env/
+
+# Archivos de Python compilados (basura)
+__pycache__/
+*.pyc
+
+# Archivos de sistema
+.DS_Store
+
+# Archivos de datos grandes (Opcional, si el csv es gigante)
+# data/raw/
