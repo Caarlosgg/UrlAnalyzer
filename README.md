@@ -5,7 +5,7 @@
 ![ML](https://img.shields.io/badge/Model-XGBoost-green)
 ![Framework](https://img.shields.io/badge/API-FastAPI-teal)
 
-> **Nota:** Este proyecto está en fase temprana de desarrollo (Día 1). La lógica de detección y el calibrado de probabilidades están siendo optimizados continuamente.
+> **Nota:** Este proyecto está en fase temprana de desarrollo. La lógica de detección y el calibrado de probabilidades están siendo optimizados continuamente.
 
 ## 📖 Descripción
 
@@ -108,4 +108,5 @@ Actualmente, el sistema es funcional pero experimental.
 ## ⚠️ Disclaimer
 
 Este software es una prueba de concepto (PoC) educativa y de investigación. No debe utilizarse como única capa de seguridad en entornos de producción críticos sin una auditoría previa.
+
 
