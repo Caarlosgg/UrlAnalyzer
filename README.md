@@ -1,4 +1,4 @@
-# 🕵️‍♂️ URLAnalyzer: AI Phishing Detec
+# 🕵️‍♂️ URLAnalyzer: AI Phishing Detector
 
 ![Status](https://img.shields.io/badge/Status-In%20Development-orange)
 ![Python](https://img.shields.io/badge/Python-3.10%2B-blue)
@@ -108,6 +108,7 @@ Actualmente, el sistema es funcional pero experimental.
 ## ⚠️ Disclaimer
 
 Este software es una prueba de concepto (PoC) educativa y de investigación. No debe utilizarse como única capa de seguridad en entornos de producción críticos sin una auditoría previa.
+
 
 
 
